@@ -13,6 +13,7 @@ This course will aim to build on the pre-existing [image clustering training](ht
 
 ## Data availability
 The data used in this work are found ...
+We have used inbuilt scikit-image dataset, specifically skin to demonstrate the data augmentation.
 
 ## Usage
 To use this you need to ...
